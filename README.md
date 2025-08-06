@@ -1,10 +1,9 @@
-# Hola, soy Héctor Fernández
+# Hello, I'm Hector Fernandez
 
-Soy un Alumno en la academia de 4GreekAcademy
-
+I am a student at 4GreekAcademy
 ---
 
-## Sobre mi
+## About me
 
 - 📍 Logroño, La Rioja, España
 
@@ -22,7 +21,7 @@ Soy un Alumno en la academia de 4GreekAcademy
 
 ---
 
-## 📱 Contacto
+## 📱 Contact
 
 - 🔗 LinkedIn: [Héctor Fernández](https://www.linkedin.com/in/h%C3%A9ctor-fern%C3%A1ndez-cabrerizo-b72567222/)
 - 📧 Email: [Hectorofi95@gmail.com](mailto:hectorofi95@gmail.com)
